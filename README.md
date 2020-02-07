@@ -1,4 +1,8 @@
 # Basic course on neural networks (mail.ru)
+**Few shot learning competition:**
+```
+cleaned_dirty_classification
+```
 **Contains the following implementations:**
 ```
 tools_cnn.ipynb:
