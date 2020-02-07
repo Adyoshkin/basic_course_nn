@@ -1,4 +1,4 @@
-# Basic course on neural networks (mail.ru)
+# Basic course on neural networks 
 **Few shot learning competition:**
 ```
 cleaned_dirty_classification
